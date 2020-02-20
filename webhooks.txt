@@ -25,6 +25,7 @@ starthook MF_Housing
 
 14.200.59.28 - >_
 217.195.155.194 86.0.30.188 - MF   
+74.103.252.170
 
 endhook MF_Housing
 
@@ -34,6 +35,7 @@ starthook mf_furnicatalogue
 
 14.200.59.28 - >_
 217.195.155.194 86.0.30.188 - MF   
+74.103.252.170 -R
 
 endhook mf_furnicatalogue
 
@@ -45,6 +47,7 @@ starthook MF_PropertyRaid
 217.195.155.194 86.0.30.188 - MF   
 192.99.5.197 - Parker​
 54.39.245.132 185.249.196.236 - MrFunBeard
+74.103.252.170 -R
 
 endhook MF_PropertyRaid
 
@@ -53,6 +56,7 @@ endhook MF_PropertyRaid
 starthook MF_Dope
 
 81.47.6.98 - Taras
+74.103.252.170 -r
 
 endhook MF_Dope
 
@@ -80,6 +84,7 @@ endhook MF_CriminalTracker
 starthook mf_tuner
 
 81.47.6.98 - Taras
+74.103.252.170 -r
 
 endhook mf_tuner
 
@@ -88,6 +93,7 @@ endhook mf_tuner
 starthook MF_DopePlant
 
 81.47.6.98 - Taras
+74.103.252.170 -r
 
 endhook MF_DopePlant
 
@@ -134,6 +140,7 @@ starthook MF_DnaTracker​
 
 81.47.6.98 - Taras
 54.37.128.35 - WellDO
+74.103.252.170 -r
 
 endhook MF_DnaTracker
 
@@ -142,6 +149,7 @@ endhook MF_DnaTracker
 starthook MF_MobileMeth
 
 81.47.6.98 - Taras
+74.103.252.170 -r
 
 endhook MF_MobileMeth
 
@@ -150,6 +158,7 @@ endhook MF_MobileMeth
 starthook MF_PlayerSafes
 
 81.47.6.98 - Taras
+74.103.252.170 -r
 
 endhook MF_PlayerSafes
 
@@ -166,6 +175,7 @@ endhook MF_Purge
 starthook MF_ObjectSpawner​
 
 81.47.6.98 - Taras
+74.103.252.170 -r
 
 endhook MF_ObjectSpawner
 
@@ -199,6 +209,7 @@ endhook MF_VehSales
 starthook MF_SafeCracker
 
 81.47.6.98 - Taras
+74.103.252.170 -r
 
 endhook MF_SafeCracker
 
@@ -250,6 +261,7 @@ starthook MF_DrugSales
 164.132.204.225 - Zedine​
 51.91.167.83 - Newton
 139.99.148.92 - Lean Squad
+74.103.252.170  - R
 104.238.205.118 - Ted
 54.39.245.132 185.249.196.236 - MrFunBeard
 139.99.209.64 2402:1f00:8101:840:: - Aussiecop31
