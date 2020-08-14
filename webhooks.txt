@@ -6,6 +6,7 @@ starthook MF_WarehouseHeist
 217.195.155.194 86.0.30.188 - MF   
 192.99.5.197 - Parker​
 54.39.245.132 185.249.196.236 - MrFunBeard
+100.40.83.92 - r
 
 endhook MF_WarehouseHeist
 
@@ -16,6 +17,7 @@ starthook mf_crafting
 14.200.59.28 - >_
 217.195.155.194 86.0.30.188 - MF   
 192.99.5.197 - Parker​
+100.40.83.92 - r
 
 endhook mf_crafting
 
@@ -25,7 +27,7 @@ starthook MF_Housing
 
 14.200.59.28 - >_
 217.195.155.194 86.0.30.188 - MF   
-74.103.252.170
+100.40.83.92 - r
 
 endhook MF_Housing
 
@@ -35,7 +37,7 @@ starthook mf_furnicatalogue
 
 14.200.59.28 - >_
 217.195.155.194 86.0.30.188 - MF   
-74.103.252.170 -R
+100.40.83.92 - r
 
 endhook mf_furnicatalogue
 
@@ -47,7 +49,7 @@ starthook MF_PropertyRaid
 217.195.155.194 86.0.30.188 - MF   
 192.99.5.197 - Parker​
 54.39.245.132 185.249.196.236 - MrFunBeard
-74.103.252.170 -R
+100.40.83.92 - r
 
 endhook MF_PropertyRaid
 
@@ -56,7 +58,7 @@ endhook MF_PropertyRaid
 starthook MF_Dope
 
 81.47.6.98 - Taras
-74.103.252.170 -r
+100.40.83.92 - r
 
 endhook MF_Dope
 
@@ -65,6 +67,7 @@ endhook MF_Dope
 starthook MF_PawnShop
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 	
 endhook MF_PawnShop
 
@@ -73,6 +76,7 @@ endhook MF_PawnShop
 starthook MF_CriminalTracker
 
 14.200.59.28 - >_
+100.40.83.92 - r
 217.195.155.194 86.0.30.188 - MF 
 192.99.5.197 - Parker​
 144.217.194.67 95.145.136.16 - lurka
@@ -84,7 +88,7 @@ endhook MF_CriminalTracker
 starthook mf_tuner
 
 81.47.6.98 - Taras
-74.103.252.170 -r
+100.40.83.92 - r
 
 endhook mf_tuner
 
@@ -93,7 +97,7 @@ endhook mf_tuner
 starthook MF_DopePlant
 
 81.47.6.98 - Taras
-74.103.252.170 -r
+100.40.83.92 - r
 
 endhook MF_DopePlant
 
@@ -104,6 +108,7 @@ starthook MF_Stress
 14.200.59.28 - >_
 ​217.195.155.194 86.0.30.188 - MF
 192.99.5.197 - Parker
+100.40.83.92 - r
 
 endhook MF_Stress
 
@@ -112,6 +117,7 @@ endhook MF_Stress
 starthook esx_policemdt
 
 ​81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook esx_policemdt
 
@@ -131,6 +137,7 @@ starthook MF_Status
 164.132.204.225 - Zedine
 212.162.151.95 192.0.129.76 - ɢօɖɦǟȶɛֆʍɛ.ɛӼɛ
 74.91.120.224 - ItsMaserati
+100.40.83.92 - r
 
 endhook MF_Status
 
@@ -140,7 +147,7 @@ starthook MF_DnaTracker​
 
 81.47.6.98 - Taras
 54.37.128.35 - WellDO
-74.103.252.170 -r
+100.40.83.92 - r
 
 endhook MF_DnaTracker
 
@@ -149,7 +156,7 @@ endhook MF_DnaTracker
 starthook MF_MobileMeth
 
 81.47.6.98 - Taras
-74.103.252.170 -r
+100.40.83.92 - r
 
 endhook MF_MobileMeth
 
@@ -158,7 +165,7 @@ endhook MF_MobileMeth
 starthook MF_PlayerSafes
 
 81.47.6.98 - Taras
-74.103.252.170 -r
+100.40.83.92 - r
 
 endhook MF_PlayerSafes
 
@@ -167,6 +174,7 @@ endhook MF_PlayerSafes
 starthook MF_Purge
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook MF_Purge
 
@@ -175,7 +183,7 @@ endhook MF_Purge
 starthook MF_ObjectSpawner​
 
 81.47.6.98 - Taras
-74.103.252.170 -r
+100.40.83.92 - r
 
 endhook MF_ObjectSpawner
 
@@ -184,6 +192,7 @@ endhook MF_ObjectSpawner
 starthook MF_Trackables
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook MF_Trackables
 
@@ -192,6 +201,7 @@ endhook MF_Trackables
 starthook MF_Boxing​
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook MF_Boxing
 
@@ -201,6 +211,7 @@ starthook MF_VehSales​
 
 81.47.6.98 - Taras
 176.31.124.83 - GravityRP
+100.40.83.92 - r
 
 endhook MF_VehSales
 
@@ -209,7 +220,7 @@ endhook MF_VehSales
 starthook MF_SafeCracker
 
 81.47.6.98 - Taras
-74.103.252.170 -r
+100.40.83.92 - r
 
 endhook MF_SafeCracker
 
@@ -218,6 +229,7 @@ endhook MF_SafeCracker
 starthook MF_LockPicking​
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook MF_LockPicking​
 
@@ -226,6 +238,7 @@ endhook MF_LockPicking​
 starthook MF_Fleeca​
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook MF_Fleeca​
 
@@ -234,6 +247,7 @@ endhook MF_Fleeca​
 starthook MF_Vangelico
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook MF_Vangelico
 
@@ -282,7 +296,7 @@ starthook MF_DrugSales
 185.239.237.206 134.255.225.125 - RiotSmokes
 92.42.46.189 - Jakey
 185.25.207.102 54.37.88.126 - Myers
-203.122.217.132 - Driftzone
+100.40.83.92 - r
 
 endhook MF_DrugSales​
 
@@ -291,6 +305,7 @@ endhook MF_DrugSales​
 starthook MF_PacificStandard​
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook MF_PacificStandard​
 
@@ -299,36 +314,8 @@ endhook MF_PacificStandard​
 starthook MF_SkeletalSystem​
 
 81.47.6.98 - Taras
+100.40.83.92 - r
 
 endhook MF_SkeletalSystem​
 
 ----
-
-starthook evidence​ 167.86.114.18 endhook evidence 
-starthook fleeca 167.86.114.18 endhook fleeca 
-starthook vangelico 167.86.114.18 endhook vangelico
-starthook methvan 167.86.114.18​ endhook methvan 
-starthook drugsales 167.86.114.18​ endhook drugsales 
-starthook PlayerSafes 167.86.114.18​ endhook PlayerSafes 
-starthook safecracker 167.86.114.18 endhook safecracker
-starthook skelly 167.86.114.18 endhook skelly 
-starthook Dope 167.86.114.18​ endhook Dope
-starthook Lockpicking 167.86.114.18 endhook Lockpicking
-starthook tracknotifications 167.86.114.18​ endhook tracknotifications​
-
-starthook Fight 145.239.206.240 - JM 144.217.68.127 - JM endhook Fight 
-starthook Germs 145.239.206.240 - JM 144.217.68.127 - JM endhook Germs
-starthook Mary 145.239.206.240 - JM 144.217.68.127 - JM endhook Mary
-starthook Cookit 145.239.206.240 - JM 144.217.68.127 - JM endhook Cookit
-starthook Sellit 145.239.206.240 - JM 144.217.68.127 - JM endhook Sellit
-starthook Bodyscan 145.239.206.240 - JM 144.217.68.127 - JM endhook Bodyscan
-starthook Fleeca1 145.239.206.240 - JM 144.217.68.127 - JM endhook Fleeca1
-starthook Pacific1 145.239.206.240 - JM 144.217.68.127 - JM endhook Pacific1
-starthook Lockpick 145.239.206.240 - JM 144.217.68.127 - JM endhook Lockpick
-starthook Minigame 145.239.206.240 - JM 144.217.68.127 - JM endhook Minigame
-starthook CCvehicleshop 145.239.206.240 - JM 144.217.68.127 - JM endhook CCvehicleshop
-starthook CCfinance 145.239.206.240 - JM 144.217.68.127 - JM endhook CCfinance
-starthook solrp_object 217.195.155.194 86.0.30.188 - MF endhook solrp_object
-starthook solrp_weed 217.195.155.194 86.0.30.188 - MF endhook solrp_weed
-starthook solrp_safes 217.195.155.194 86.0.30.188 - MF endhook solrp_safes
-starthook solrp_pawnshop 217.195.155.194 86.0.30.188 - MF endhook solrp_pawnshop
